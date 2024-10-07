@@ -1,0 +1,1 @@
+var firebaseConfig = {"apiKey":"AIzaSyAp-qiiKqPK0mZBUjz4OMHEbXtX1eLxrqc","authDomain":"my11clubs-b5f22.firebaseapp.com","projectId":"my11clubs-b5f22","storageBucket":"my11clubs-b5f22.appspot.com","messagingSenderId":"675291894782","appId":"1:675291894782:web:b1d048f2d1b565fa5da6af","measurementId":"G-KD9XMP2ZSJ"}

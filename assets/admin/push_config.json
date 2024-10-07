@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "my11clubs-b5f22",
+  "private_key_id": "d956182c0e3b20e2868b6a8b053d15757e09ed02",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC7s/6/H7YyPsqG\nX8909bJMHet4Yg7Ok7JuVOlNqgcPUOJt9bqPASpc4V9vU913o2ouHjyTowXscc6z\nyhRrMy/5HvVs3h+VWFrkPyMBfILmtZ+fFfzoFYK607AW8Dn3KZqnCQbiCSVlvVf2\nt7Sn7457Fisi8+/XpQExSkHhUxDfElCoAsKJAWFnEj/xe8Prp6SFZA3V2CbKrILJ\nzwDeXdC0e9ju1bdJNBmAj/8gmpwp0wsT/QWSicqXXjEsJ2l6jK8QzFcfaUgJXynF\nWz9w0w/PGYMhQX2sSCUpGwpgzCLW0S90zzs+UGdFlqTNqzH/WU6aZGWB7i8/29vJ\ntK+se2jRAgMBAAECggEAH1ZaMhN7yiC0lEGbs6WvekjGfsc0PKXo9MWlW8uGuTZi\nT0RmvKhPp8kSs1X3lBlKyV9P8sAVZZfMkDStOwaFPFzAUcg10qu5JQEreXyNqDHr\nb9ZublrlBAcCj5nUu6CNCtUVephXT4iQjoa2GRGEIqWdVw0N3l1UeSOyIwnIt80g\nNUJ6Kc73LUEvM5/bf36szFXbMyqVwJV3O/oxg1niyyORSJEiG119VstCVrNx/hUE\nwLdHssjaOHirJmdP+DJH1sPOqbSEjjJGYkMvUf8b4nSFio3arCx2+Ki0ZFmSnO5v\n8b5Ll+QRZ+QTko3sJ0V4mk7V/Q+0bNxp+J08s/aphwKBgQDmEVm+W6e7lDJFBbu5\nQf4qfcdKAOa7b53t3BWav2O30VDhkxC/mjZ7XrkkRuE6UvGHGhr0h/KbQhYBLBbj\nSj7bmVwNd1L43JkpthSjQrpeUMev0N4zEuMoe57DGjKr3ULCpW53ldkePCpaa4/p\nAPSRESqgInDT7xvSF1WbmPNAtwKBgQDQ3DQ1Mv9hwZlwUhOFFINGInT9LX6fhAUx\nKhoudUebzjsKummw7jsfweua5TGdm1W7quS8YJLtLon0PgJoLn8ffps/IKkA3A6l\ngwUbmMQIk38KYKDAHFtbDxUkfp/yVhRIeFW/gC8ZHtHzupJEOlWJAL1if7/0/4Tb\n03M6R3cKtwKBgQCNasTbOcOUjbeIrcmCSopM3BuP5ZXuSOGuv8WX5WUKLGOnBJsa\n61Pp6YOsRNVU4H8OKIHBJX9+59RWzB8VfyG8IjxvGpWp2w9akE2HPREJwGW+MIkk\no8t1qucfzg6vjcXnl4CbiUR4TUtLYSqIcsniEcc9v23TF/rl3OoGRrHfaQKBgFgQ\nUQ8RVq7wQ3MhmEtnj8ZVpwBNW3OE5e+J8goetzfRqAFpAkFw4YsNZ/siol3y7h43\n+0QWcD0Df3V1Y+xrlnxAFNN0QO402xQcf13Ydueq0Ukd3wnBqx9k56RAo845T0oT\nOwyIztMHtLzQsPWFpyUiI7hRZy21Q16w9IfhNCdXAoGBAMpJpv29dHa+xRhrIojU\nkRDgpZeuDLf5l1fdVgnWLWAaTFaMKOcXj+dNJ2y6323eOWjxZ3I+BJof3m4olGEY\n67XA5b9DFjf4QqnOKAD7dyFSwRqb8XXkqh74+8ERocHFIKvuw08Cx+NUS9jwcUpT\nL9FI/Vmy8TXCmlorYtT0bm9d\n-----END PRIVATE KEY-----\n",
+  "client_email": "my11clubs-b5f22@appspot.gserviceaccount.com",
+  "client_id": "111972928362052986229",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/my11clubs-b5f22%40appspot.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
